@@ -8,10 +8,10 @@ if double click in a to-do item, it will remove the element.
 By click see all , if there so more than 5 list then users can able to see all.
 By clicking eye button it will wrap it again and show scrollbars for more than 5.
 
-<h2>Minify ToDo List</h2>
+<h2>Minify ToDo List</h2><br/>
 
 ![Alt Text](https://im4.ezgif.com/tmp/ezgif-4-340495272c.gif)
-<h3>Default Page</h3><br/>
+<br/><h3>Default Page</h3>
 ![image](https://user-images.githubusercontent.com/27921717/162416463-3405afda-b71f-46eb-8213-98ace5bc85fc.png)
 
 validation<br/>
